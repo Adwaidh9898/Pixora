@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://pixora-two-pi.vercel.app/sitemap.xml
